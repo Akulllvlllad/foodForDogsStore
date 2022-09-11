@@ -1,0 +1,41 @@
+.root{
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  
+  :global{
+    .selected{
+      a{
+        background-color: #64696025;
+        opacity: 1;
+      }
+    
+    }
+    
+    li{
+      display: inline-flex;
+      
+      a{
+        text-align: center;
+        justify-content: center;
+        line-height: 38px;
+        cursor:pointer;
+        border: 1px solid #DBBE5A;
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        opacity: 0.5;
+        color: #009E00;
+        font-size: 18px;
+        font-weight: 900;
+        &:hover{
+          opacity: 1;
+          background-color: #64696025;
+        }
+        
+      }
+      
+    }
+  }
+  
+}

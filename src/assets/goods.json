@@ -1,0 +1,236 @@
+[
+	{
+	 "id": "0",
+	 "category": 1,
+	 "img": "https://i.ibb.co/w7pSv0h/awia2r6lofswo8808ss0w0os4owsgc-1-1.png",
+	 "type": "Regular",
+	 "tastes": [
+		"Beef"
+	 ],
+	 "class": "Premium",
+	 "name": "Regular",
+	 "isNew": false,
+	 "sizes": [
+		"1",
+		"2.5",
+		"5"
+	 ],
+	 "inStock": [
+		true,
+		true,
+		true
+	 ],
+	 "prise": [
+		650,
+		1300,
+		2100
+	 ],
+   "minPrise": 650,
+   "rating": 43
+	},
+	{
+	 "id": "1",
+	 "category": 1,
+	
+	 "type": "Regular",
+	 "tastes": [
+		"Turkey"
+	 ],
+	 "class": "Super Premium",
+	 "name": "Tasty",
+	 "isNew": false,
+	 "sizes": [
+		"1",
+		"2.5",
+		"5"
+	 ],
+	 "inStock": [
+		true,
+		true,
+		true
+	 ],
+	 "prise": [
+		610,
+		1700,
+		2400
+	 ],
+   "minPrise": 610,
+   "rating": 43
+	},
+	{
+	 "id": "2",
+	 "category": 1,
+	 
+	 "type": "Regular",
+	 "tastes": [
+		"Fish"
+	 ],
+	 "class": "Holistic",
+	 "name": "Optima",
+	 "isNew": false,
+	 "sizes": [
+		"1",
+		"2.5",
+		"5"
+	 ],
+	 "inStock": [
+		true,
+		true,
+		true
+	 ],
+	 "prise": [
+		1100,
+		2300,
+		3100
+	 ],
+   "minPrise": 1100,
+   "rating": 54
+	},
+	{
+	 "id": "3",
+	 "category": 1,
+	 
+	 "type": "Regular",
+	 "tastes": [
+		"Duck",
+		"Veal"
+	 ],
+	 "class": "Holistic",
+	 "name": "Power Flock",
+	 "isNew": false,
+	 "sizes": [
+		"1",
+		"2.5",
+		"5"
+	 ],
+	 "inStock": [
+		true,
+		true,
+		true
+	 ],
+	 "prise": [
+		1300,
+		2900,
+		3900
+	 ],
+   "minPrise": 1300,
+   "rating": 32
+	},
+	{
+	 "id": "4",
+	 "category": 1,
+	 
+	 "type": "Regular",
+	 "tastes": [
+		"Ordinary",
+		"Light"
+	 ],
+	 "class": "Super Premium",
+	 "name": "Aurora",
+	 "isNew": false,
+	 "sizes": [
+		"1",
+		"2.5",
+		"5"
+	 ],
+	 "inStock": [
+		true,
+		true,
+		true
+	 ],
+	 "prise": [
+		750,
+		1500,
+		3300
+	 ],
+   "minPrise": 750,
+   "rating": 65
+	},
+	{
+		"id": "5",
+		"category": 2,
+		"img": "https://i.ibb.co/w7pSv0h/awia2r6lofswo8808ss0w0os4owsgc-1-1.png",
+		"type": "Regular",
+		"tastes": [
+		 "Beef"
+		],
+		"class": "Holistic",
+		"name": "A Baked Dog Lamb",
+		"isNew": false,
+		"sizes": [
+		 "1",
+		 "2.5",
+		 "5"
+		],
+		"inStock": [
+		 true,
+		 true,
+		 true
+		],
+		"prise": [
+		 650,
+		 1300,
+		 2100
+		],
+    "minPrise": 650,
+    "rating": 10
+	 },
+	 {
+		"id": "6",
+		"category": 3,
+		"img": "https://i.ibb.co/w7pSv0h/awia2r6lofswo8808ss0w0os4owsgc-1-1.png",
+		"type": "Regular",
+		"tastes": [
+		 "Beef"
+		],
+		"class": "Premium",
+		"name": "Vet A`Dog Hypoallergenic",
+		"isNew": false,
+		"sizes": [
+		 "1",
+		 "2.5",
+		 "5"
+		],
+		"inStock": [
+		 true,
+		 true,
+		 true
+		],
+		"prise": [
+		 650,
+		 1300,
+		 2100
+		],
+    "minPrise": 650,
+    "rating": 4
+	 },
+	 {
+		"id": "7",
+		"category": 4,
+		"img": "https://i.ibb.co/w7pSv0h/awia2r6lofswo8808ss0w0os4owsgc-1-1.png",
+		"type": "Regular",
+		"tastes": [
+		 "Beef"
+		],
+		"class": "Premium",
+		"name": "Puppy Holistic",
+		"isNew": false,
+		"sizes": [
+		 "1",
+		 "2.5",
+		 "5"
+		],
+		"inStock": [
+		 true,
+		 true,
+		 true
+		],
+		"prise": [
+		 650,
+		 1300,
+		 2100
+		],
+    "minPrise": 650,
+    "rating": 5
+	 }
+ ]

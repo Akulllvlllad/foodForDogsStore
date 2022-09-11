@@ -1,0 +1,40 @@
+
+.root{
+  border-radius: 12px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  padding: 15px 15px 8px 60px;
+  width: 400px;
+  font-size: 20px;
+  font-weight: 600;
+}
+.search{
+  position: relative;
+  span{
+    font-size: 22px;
+    display: block;
+    position: absolute;
+    left: 10px;
+    top:50%;
+    transform: translate(0, -50%);
+    opacity: 0.5;
+  }
+  p{
+    
+    font-size: 22px;
+    position: absolute;
+    top:50%;
+    transform: translate(0, -50%);
+    right: 30px;
+    
+    opacity: 0;
+    transition: all 0.3s ease-in-out;
+    
+  }
+  .active{
+    cursor: pointer;
+    opacity: 0.5;
+    &:hover{
+      opacity: 0.8;
+    }
+  }
+}

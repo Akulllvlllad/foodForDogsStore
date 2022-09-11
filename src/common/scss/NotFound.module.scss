@@ -1,0 +1,12 @@
+.root{
+	text-align: center;
+	vertical-align: middle;
+	height: 50vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	transform: translate(0, -10%);
+	span{
+		font-size: 78px;
+	}
+}
